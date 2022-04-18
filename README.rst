@@ -1,9 +1,10 @@
-Template for the Read the Docs tutorial
+FRC Tutorials Introduction
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is not meant to be a replacement for WPILib documentation, moreso a supplemental reference to the existing documenation.
+For example, official documentation doesn't allow vendor specific information, whereas here we can provide the basics to get a robot up and running with specific motor controllers.
 
-Read the tutorial here:
+`Official WPILib Documentation <https://docs.wpilib.org/en/stable/docs/software/vscode-overview/creating-robot-program.html>`_: 
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Documentation Development Requirements
+
